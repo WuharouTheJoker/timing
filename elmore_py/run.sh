@@ -1,0 +1,2 @@
+python main.py --spef "Data/SPEF/Group0.spef" --output "Data/my_delay" --golden "Data/delay_data/Group0.txt"
+python main.py --spef "Data/SPEF/Group1.spef" --output "Data/my_delay" --golden "Data/delay_data/Group1.txt"

@@ -1,0 +1,47 @@
+[
+{
+  "directory": "/home/srtp2/timing/elmore_cpp/build",
+  "command": "/usr/bin/c++ -DCMAKE_INTDIR=\\\"Debug\\\" -I/home/srtp2/timing/elmore_cpp/inc -g -std=gnu++17 -o CMakeFiles/elmore_cpp.dir/Debug/src/main.cpp.o -c /home/srtp2/timing/elmore_cpp/src/main.cpp",
+  "file": "/home/srtp2/timing/elmore_cpp/src/main.cpp"
+},
+{
+  "directory": "/home/srtp2/timing/elmore_cpp/build",
+  "command": "/usr/bin/c++ -DCMAKE_INTDIR=\\\"Debug\\\" -I/home/srtp2/timing/elmore_cpp/inc -g -std=gnu++17 -o CMakeFiles/elmore_cpp.dir/Debug/src/Parser.cpp.o -c /home/srtp2/timing/elmore_cpp/src/Parser.cpp",
+  "file": "/home/srtp2/timing/elmore_cpp/src/Parser.cpp"
+},
+{
+  "directory": "/home/srtp2/timing/elmore_cpp/build",
+  "command": "/usr/bin/c++ -DCMAKE_INTDIR=\\\"Debug\\\" -I/home/srtp2/timing/elmore_cpp/inc -g -std=gnu++17 -o CMakeFiles/elmore_cpp.dir/Debug/src/RCTree.cpp.o -c /home/srtp2/timing/elmore_cpp/src/RCTree.cpp",
+  "file": "/home/srtp2/timing/elmore_cpp/src/RCTree.cpp"
+},
+{
+  "directory": "/home/srtp2/timing/elmore_cpp/build",
+  "command": "/usr/bin/c++ -DCMAKE_INTDIR=\\\"Release\\\" -I/home/srtp2/timing/elmore_cpp/inc -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/elmore_cpp.dir/Release/src/main.cpp.o -c /home/srtp2/timing/elmore_cpp/src/main.cpp",
+  "file": "/home/srtp2/timing/elmore_cpp/src/main.cpp"
+},
+{
+  "directory": "/home/srtp2/timing/elmore_cpp/build",
+  "command": "/usr/bin/c++ -DCMAKE_INTDIR=\\\"Release\\\" -I/home/srtp2/timing/elmore_cpp/inc -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/elmore_cpp.dir/Release/src/Parser.cpp.o -c /home/srtp2/timing/elmore_cpp/src/Parser.cpp",
+  "file": "/home/srtp2/timing/elmore_cpp/src/Parser.cpp"
+},
+{
+  "directory": "/home/srtp2/timing/elmore_cpp/build",
+  "command": "/usr/bin/c++ -DCMAKE_INTDIR=\\\"Release\\\" -I/home/srtp2/timing/elmore_cpp/inc -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/elmore_cpp.dir/Release/src/RCTree.cpp.o -c /home/srtp2/timing/elmore_cpp/src/RCTree.cpp",
+  "file": "/home/srtp2/timing/elmore_cpp/src/RCTree.cpp"
+},
+{
+  "directory": "/home/srtp2/timing/elmore_cpp/build",
+  "command": "/usr/bin/c++ -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -I/home/srtp2/timing/elmore_cpp/inc -O2 -g -DNDEBUG -std=gnu++17 -o CMakeFiles/elmore_cpp.dir/RelWithDebInfo/src/main.cpp.o -c /home/srtp2/timing/elmore_cpp/src/main.cpp",
+  "file": "/home/srtp2/timing/elmore_cpp/src/main.cpp"
+},
+{
+  "directory": "/home/srtp2/timing/elmore_cpp/build",
+  "command": "/usr/bin/c++ -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -I/home/srtp2/timing/elmore_cpp/inc -O2 -g -DNDEBUG -std=gnu++17 -o CMakeFiles/elmore_cpp.dir/RelWithDebInfo/src/Parser.cpp.o -c /home/srtp2/timing/elmore_cpp/src/Parser.cpp",
+  "file": "/home/srtp2/timing/elmore_cpp/src/Parser.cpp"
+},
+{
+  "directory": "/home/srtp2/timing/elmore_cpp/build",
+  "command": "/usr/bin/c++ -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -I/home/srtp2/timing/elmore_cpp/inc -O2 -g -DNDEBUG -std=gnu++17 -o CMakeFiles/elmore_cpp.dir/RelWithDebInfo/src/RCTree.cpp.o -c /home/srtp2/timing/elmore_cpp/src/RCTree.cpp",
+  "file": "/home/srtp2/timing/elmore_cpp/src/RCTree.cpp"
+}
+]

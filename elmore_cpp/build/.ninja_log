@@ -1,0 +1,24 @@
+# ninja log v5
+0	233	1746376933184956305	CMakeFiles/elmore_cpp.dir/Debug/src/main.cpp.o	8a75b423aa415dce
+0	367	1746376933320958748	CMakeFiles/elmore_cpp.dir/Debug/src/RCTree.cpp.o	1ad5332267b0ffa9
+0	981	1746376933932969735	CMakeFiles/elmore_cpp.dir/Debug/src/Parser.cpp.o	cb129b56c22d55a8
+981	1035	1746376933988970741	Debug/elmore_cpp	448ed9e8e4ecd67c
+0	219	1746377010822358689	CMakeFiles/elmore_cpp.dir/Debug/src/main.cpp.o	8a75b423aa415dce
+219	274	1746377010878359706	Debug/elmore_cpp	448ed9e8e4ecd67c
+1	223	1746377125998564561	CMakeFiles/elmore_cpp.dir/Debug/src/main.cpp.o	8a75b423aa415dce
+223	279	1746377126054563555	Debug/elmore_cpp	448ed9e8e4ecd67c
+1	215	1746377162517946773	CMakeFiles/elmore_cpp.dir/Debug/src/main.cpp.o	8a75b423aa415dce
+215	268	1746377162569945949	Debug/elmore_cpp	448ed9e8e4ecd67c
+0	216	1746377245928810272	CMakeFiles/elmore_cpp.dir/Debug/src/main.cpp.o	8a75b423aa415dce
+216	272	1746377245980809672	Debug/elmore_cpp	448ed9e8e4ecd67c
+1	222	1746377276680478658	CMakeFiles/elmore_cpp.dir/Debug/src/main.cpp.o	8a75b423aa415dce
+222	276	1746377276732478131	Debug/elmore_cpp	448ed9e8e4ecd67c
+0	965	1746378353980154230	CMakeFiles/elmore_cpp.dir/Debug/src/Parser.cpp.o	cb129b56c22d55a8
+965	1021	1746378354036154804	Debug/elmore_cpp	448ed9e8e4ecd67c
+1	384	1746425994085025126	CMakeFiles/elmore_cpp.dir/Debug/src/RCTree.cpp.o	1ad5332267b0ffa9
+1	422	1746426348207748781	CMakeFiles/elmore_cpp.dir/Debug/src/main.cpp.o	8a75b423aa415dce
+1	952	1746426348731750337	CMakeFiles/elmore_cpp.dir/Debug/src/Parser.cpp.o	cb129b56c22d55a8
+952	1012	1746426348795750526	Debug/elmore_cpp	448ed9e8e4ecd67c
+1	397	1746426674429221380	CMakeFiles/elmore_cpp.dir/Debug/src/main.cpp.o	8a75b423aa415dce
+1	1017	1746426675045224933	CMakeFiles/elmore_cpp.dir/Debug/src/Parser.cpp.o	cb129b56c22d55a8
+1017	1089	1746426675121225372	Debug/elmore_cpp	448ed9e8e4ecd67c
